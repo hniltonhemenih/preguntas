@@ -1,7 +1,7 @@
 // Inicializamos el mazo si no existe, luego añadimos las preguntas
 window.misPreguntas = window.misPreguntas || [];
 window.misPreguntas.push(
-    { q: "Física - PREG 1:", a: "C", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Física - PREG 1:", a: "C", inc: ["A", "B", "C", "D", "E"], img: "http://imgfz.com/i/tcXzT8n.png", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
     { q: "Física - PREG 2:", a: "B", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
     { q: "Física - PREG 3:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
     { q: "Física - PREG 4:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
