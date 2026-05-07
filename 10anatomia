@@ -1,94 +1,29 @@
 // Inicializamos el mazo si no existe, luego añadimos las preguntas
 window.misPreguntas = window.misPreguntas || [];
 window.misPreguntas.push(
-    { 
-        q: "1. ¿Qué estructura no es estudiada por la anatomía macroscópica?:", 
-        a: "C", 
-        inc: ["corazón", "pulmones", "linfa", "hipófisis", "glándulas suprarrenales"], 
-        img: "", 
-        devText: "La linfa es un líquido y su estudio detallado a nivel celular o tisular corresponde a la anatomía microscópica o histología, a diferencia de los órganos mencionados.", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "2. ¿Cuál de las siguientes alternativas no corresponden al nivel químico?:", 
-        a: "E", 
-        inc: ["proteínas", "carbohidratos", "lípidos", "vitaminas", "fotones"], 
-        img: "", 
-        devText: "Los fotones son partículas elementales de la luz y pertenecen al nivel subatómico/físico, no son considerados componentes químicos orgánicos del cuerpo en este nivel.", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "3. Con respecto a la posición anatómica, ¿cuál de las siguientes alternativas no corresponde?:", 
-        a: "D", 
-        inc: ["Cuerpo erguido", "Mirada hacia adelante", "Miembros superiores extendidos", "Palma de las manos hacia abajo", "Punta de los pies hacia adelante"], 
-        img: "", 
-        devText: "En la posición anatómica estándar, las palmas de las manos deben mirar hacia adelante (supinación).", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "4. ¿Cuál de los siguientes huesos está en posición proximal al húmero?:", 
-        a: "C", 
-        inc: ["Huesos del carpo", "Metacarpianos", "Clavícula", "Falange proximal", "Falange distal"], 
-        img: "", 
-        devText: "La clavícula se encuentra más cerca del tronco (eje central) en comparación con el húmero, situándose en una posición proximal respecto a este.", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "5. ¿Qué plano divide al cerebro en hemisferios derecho e izquierdo?:", 
-        a: "C", 
-        inc: ["Plano transversal", "Plano coronal", "Plano sagital", "Plano parasagital", "Plano horizontal"], 
-        img: "", 
-        devText: "El plano sagital medio es el que divide simétricamente una estructura en mitades derecha e izquierda.", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "6. ¿Cuál de los siguientes sistemas regulan principalmente la homeostasis?:", 
-        a: "C", 
-        inc: ["Digestivo y urinario", "Endocrio urinario", "Nervioso y endocrino", "Respiratorio y urinario", "Digestivo y respiratorio"], 
-        img: "", 
-        devText: "El sistema nervioso (respuesta rápida) y el sistema endocrino (respuesta hormonal lenta) son los principales coordinadores de la estabilidad interna.", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "7. ¿Cuál de los siguientes electrolitos se encuentra en menor concentración en el líquido extracelular en comparación al intracelular?:", 
-        a: "C", 
-        inc: ["$Na^+$", "$Cl^-$", "$K^+$", "$Ca^{++}$", "$HCO_3^-$"], 
-        img: "", 
-        devText: "El Potasio ($K^+$) es el principal catión intracelular; su concentración extracelular es muy baja (aprox. 4 mEq/L).", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "8. El agua representa aproximadamente el 60% del peso corporal. ¿En cuál de los siguientes espacios se encuentra en mayor proporción?:", 
-        a: "E", 
-        inc: ["Espacio extracelular", "Espacio tisular", "Espacio intravascular", "Espacio intersticial", "Espacio intracelular"], 
-        img: "", 
-        devText: "Aproximadamente 2/3 del agua corporal total se encuentra dentro de las células (espacio intracelular).", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "9. La homeostasia puede ser alterada por pérdida de líquidos que supera los $2500\\text{ ml/día}$. ¿Cuál de las siguientes alternativas no es considerada como causa de deshidratación?:", 
-        a: "D", 
-        inc: ["Hemorragia profusa", "Quemadura", "Diarreas", "Fractura", "Diabetes insípida"], 
-        img: "", 
-        devText: "Una fractura ósea simple no implica necesariamente una pérdida masiva de líquidos hacia el exterior, a diferencia de las otras patologías.", 
-        devImg: "", 
-        youtubeId: "" 
-    },
-    { 
-        q: "10. En un adulto promedio de 70 kg, ¿cuál es el volumen aproximado del líquido intersticial?:", 
-        a: "B", 
-        inc: ["$3\\text{ litros}$", "$11\\text{ a }12\\text{ litros}$", "$14\\text{ litros}$", "$28\\text{ litros}$", "$42\\text{ litros}$"], 
-        img: "", 
-        devText: "El líquido intersticial representa aproximadamente el 15% del peso corporal (unos 10.5 - 12 litros).", 
-        devImg: "", 
-        youtubeId: "" 
-    }
+    { q: "Química - PREG 1:", a: "C", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 2:", a: "B", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 3:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 4:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 5:", a: "B", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 6:", a: "C", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 7:", a: "B", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 8:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 9:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 10:", a: "B", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 11:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 12:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 13:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 14:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 15:", a: "B", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 16:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 17:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 18:", a: "E", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 19:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 20:", a: "D", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 21:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 22:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 23:", a: "E", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 24:", a: "C", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
+    { q: "Química - PREG 25:", a: "A", inc: ["A", "B", "C", "D", "E"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" }
 );
