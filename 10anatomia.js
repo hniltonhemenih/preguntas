@@ -19,6 +19,6 @@ window.misPreguntas.push(
 
     { q: "9. La homeostasia puede ser alterada por pérdida de líquidos que supera los 2500 ml/día lo cual conlleva a deshidratación ¿Cuál de las siguientes alternativas, no es considerada como causa de deshidratación?:", a: "D", inc: ["A) Hemorragia profusa", "B) Quemadura", "C) Diarreas", "D) Fractura", "E) Diabetes insípida"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" },
     
-    { q: "Química - PREG 10:", a: "C", inc: ["A) 10 litros", "B) 12 litros", "C) 14 litros", "D) 16 litros", "E) 18 litros"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" }
+    { q: "10. Si una persona pesa 70 kilogramos. Calcular la cantidad total de agua en su medio interno.:", a: "C", inc: ["A) 10 litros", "B) 12 litros", "C) 14 litros", "D) 16 litros", "E) 18 litros"], img: "", devText: "Desarrollo no disponible.", devImg: "", youtubeId: "" }
 
 );
