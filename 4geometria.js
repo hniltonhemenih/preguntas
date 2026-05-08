@@ -1,7 +1,7 @@
 // Inicializamos el mazo si no existe, luego añadimos las preguntas
 window.misPreguntas = window.misPreguntas || [];
 window.misPreguntas.push(
-    {   q: "", 
+    {   q: "Geometría", 
         a: "A", 
         inc: ["A", "B", "C", "D", "E"], 
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/1.png", 
@@ -9,7 +9,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "B", 
         inc: ["A", "B", "C", "D", "E"], 
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/2.png", 
@@ -17,7 +17,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "E", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/3.png", 
@@ -25,7 +25,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/4.png", 
@@ -33,7 +33,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/5.png", 
@@ -41,7 +41,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "E", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/6.png", 
@@ -49,7 +49,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/7.png", 
@@ -57,7 +57,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/8.png", 
@@ -65,7 +65,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "E", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/9.png", 
@@ -73,7 +73,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
     
-    { q: "", 
+    { q: "Geometría", 
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/10.png", 
@@ -81,7 +81,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "A", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/11.png", 
@@ -89,7 +89,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/12.png", 
@@ -97,7 +97,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/13.png", 
@@ -105,7 +105,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/14.png", 
@@ -113,7 +113,7 @@ window.misPreguntas.push(
         devImg: "", 
         youtubeId: "" },
 
-    { q: "", 
+    { q: "Geometría", 
         a: "A", 
         inc: ["A", "B", "C", "D", "E"],
         img: "https://raw.githubusercontent.com/hniltonhemenih/geometria/main/15.png", 
