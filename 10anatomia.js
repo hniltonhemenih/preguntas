@@ -2,7 +2,7 @@
 window.misPreguntas = window.misPreguntas || [];
 window.misPreguntas.push(
     {   q: "1. ¿Qué estructura no es estudiada por la anatomía macroscópica?:", 
-        
+        q2: ["A) corazón", "B) pulmones", "C) linfa", "D) hipófisis", "E) glándulas suprarrenales"], 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"], 
         img: "", 
@@ -11,7 +11,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "2. ¿Cuál de las siguientes alternativas no corresponden al nivel químico?:", 
-        
+        q2: ["A) proteínas", "B) carbohidratos", "C) lípidos", "D) vitaminas", "E) fotones"], 
         a: "E", 
         inc: ["A", "B", "C", "D", "E"], 
         img: "", 
@@ -20,7 +20,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "3. Con respecto a la posición anatómica, ¿cuál de las siguientes alternativas no corresponde?:", 
-        
+        q2: ["A) Cuerpo erguido", "B) Mirada hacia adelante", "C) Miembros superiores extendidos", "D) Palma de las manos hacia abajo", "E) Punta de los pies hacia adelante"], 
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -29,7 +29,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "4. ¿Cuál de los siguientes huesos está en posición proximal al húmero?:", 
-       
+        q2: ["A) Huesos del carpo", "B) Metacarpianos", "C) Clavícula", "D) Falange proximal", "E) Falange distal"], 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -38,7 +38,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "5. ¿Qué plano divide al cerebro en hemisferios derecho e izquierdo?:", 
-        
+        q2: ["A) Plano transversal", "B) Plano coronal", "C) Plano sagital", "D) Plano parasagital", "E) Plano horizontal"], 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -47,7 +47,8 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "6. ¿Cuál de los siguientes sistemas regulan principalmente la homeostasis?:", 
-        
+        q2: ["A) Digestivo y urinario", "B) Endocrino urinario", "C) Nervioso y endocrino", "D) Respiratorio y urinario", "E) Digestivo y respiratorio"], 
+        a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
         devText: "Desarrollo no disponible.", 
@@ -55,7 +56,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "7. ¿Cuál de los siguientes electrolitos se encuentra en menor concentración en el líquido extracelular en comparación al intracelular:", 
-        
+        q2: ["A) Na^+", "B) Cl^-", "C) K^+", "D) Ca^{++}", "E) HCO_3^-"], 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -64,7 +65,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "8. El agua representa aproximadamente el 60% del peso corporal ¿En cual de los siguientes espacios se encuentra en mayor proporción:", 
-        
+        q2: ["A) Espacio extracelular", "B) Espacio tisular", "C) Espacio intravascular", "D) Espacio intersticial", "E) Espacio intracelular"], 
         a: "E", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -73,7 +74,7 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "9. La homeostasia puede ser alterada por pérdida de líquidos que supera los 2500 ml/día lo cual conlleva a deshidratación ¿Cuál de las siguientes alternativas, no es considerada como causa de deshidratación?:", 
-        
+        q2: ["A) Hemorragia profusa", "B) Quemadura", "C) Diarreas", "D) Fractura", "E) Diabetes insípida"], 
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -82,7 +83,7 @@ window.misPreguntas.push(
         youtubeId: "" },
     
     { q: "10. Si una persona pesa 70 kilogramos. Calcular la cantidad total de agua en su medio interno.:", 
-       
+        q2: ["A) 10 litros", "B) 12 litros", "C) 14 litros", "D) 16 litros", "E) 18 litros"], 
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
