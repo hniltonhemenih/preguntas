@@ -2,7 +2,6 @@
 window.misPreguntas = window.misPreguntas || [];
 window.misPreguntas.push(
     {   q: "1. ¿Qué estructura no es estudiada por la anatomía macroscópica?:", 
-        
         a: "C", 
         inc: ["A", "B", "C", "D", "E"], 
         img: "", 
@@ -11,7 +10,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "2. ¿Cuál de las siguientes alternativas no corresponden al nivel químico?:", 
-        
         a: "E", 
         inc: ["A", "B", "C", "D", "E"], 
         img: "", 
@@ -20,7 +18,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "3. Con respecto a la posición anatómica, ¿cuál de las siguientes alternativas no corresponde?:", 
-        
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -29,7 +26,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "4. ¿Cuál de los siguientes huesos está en posición proximal al húmero?:", 
-       
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -38,7 +34,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "5. ¿Qué plano divide al cerebro en hemisferios derecho e izquierdo?:", 
-        
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -47,7 +42,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "6. ¿Cuál de los siguientes sistemas regulan principalmente la homeostasis?:", 
-        
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
         devText: "Desarrollo no disponible.", 
@@ -55,7 +49,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "7. ¿Cuál de los siguientes electrolitos se encuentra en menor concentración en el líquido extracelular en comparación al intracelular:", 
-        
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -64,7 +57,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "8. El agua representa aproximadamente el 60% del peso corporal ¿En cual de los siguientes espacios se encuentra en mayor proporción:", 
-        
         a: "E", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -73,7 +65,6 @@ window.misPreguntas.push(
         youtubeId: "" },
 
     { q: "9. La homeostasia puede ser alterada por pérdida de líquidos que supera los 2500 ml/día lo cual conlleva a deshidratación ¿Cuál de las siguientes alternativas, no es considerada como causa de deshidratación?:", 
-        
         a: "D", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
@@ -82,7 +73,6 @@ window.misPreguntas.push(
         youtubeId: "" },
     
     { q: "10. Si una persona pesa 70 kilogramos. Calcular la cantidad total de agua en su medio interno.:", 
-       
         a: "C", 
         inc: ["A", "B", "C", "D", "E"],
         img: "", 
